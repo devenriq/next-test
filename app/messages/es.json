@@ -1,0 +1,19 @@
+{
+  "Navbar": {
+    "about": "Quiénes somos",
+    "courses": "Cursos",
+    "program": "Programa",
+    "reviews": "Reseñas",
+    "contact": "Contacto"
+  },
+  "Hero": {
+    "MainTitle": "Tu historia de éxito",
+    "Subtitle": "empieza ",
+    "TextOption1": "hoy",
+    "TextOption2": "aquí",
+    "TextOption3":"ahora",
+    "Description": "Únete a nuestros exclusivos programas y prepárate para brillar en tu carrera desarrollando las habilidades Tech más demandadas.",
+    "AvailableCourses": "Cursos disponibles",
+    "RegisterNow": "¡Quiero inscribirme!"
+  }
+}

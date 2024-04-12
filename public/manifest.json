@@ -1,0 +1,9 @@
+{
+  "short_name": "ByteTheCode",
+  "name": "ByteTheCode",
+  "icons": [
+
+  ],
+  "start_url": ".",
+  "display": "standalone"
+}

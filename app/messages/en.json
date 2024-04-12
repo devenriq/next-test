@@ -1,0 +1,19 @@
+{
+  "Navbar": {
+    "about": "About us",
+    "courses": "Courses",
+    "program": "Program",
+    "reviews": "Reviews",
+    "contact": "Contact"
+  },
+  "Hero": {
+    "MainTitle": "Your success story",
+    "Subtitle": "begins ",
+    "TextOption1": "today",
+    "TextOption2": "here",
+    "TextOption3":"now",
+    "Description": "Join our exclusive programs and get ready to shine in your career by developing the most in-demand Tech skills.",
+    "AvailableCourses": "Available courses",
+    "RegisterNow": "Sign me up!"
+    }
+}
